@@ -1,2 +1,2 @@
 # pro_book
-This repo contains all of my work the Pricing and Revenue Optimization book by Robert Phillips. 
+This repo contains all of my work from the Pricing and Revenue Optimization 2nd edition book by Robert Phillips. 
